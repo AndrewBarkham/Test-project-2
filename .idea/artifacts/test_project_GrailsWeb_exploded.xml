@@ -1,0 +1,7 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="test-project:GrailsWeb exploded">
+    <root id="root">
+      <element id="javaee-facet-resources" facet="test-project/web/GrailsWeb" />
+    </root>
+  </artifact>
+</component>
